@@ -11,7 +11,7 @@
    <img src="https://github.com/filelucker/random_bg_color_flutter/assets/25184971/2a72e081-e908-49c6-8af4-aa87ca92e2b9" width="250" height="450" />
   </a>
  <a style="text-decoration:none" area-label="next click">
-    <img src="https://github.com/filelucker/random_bg_color_flutter/assets/25184971/68759356-4501-4aaa-88c3-3391679c406a" width="250" height="450" />
+    <img src="https://github.com/filelucker/random_bg_color_flutter/assets/25184971/8a226dee-5620-4191-bc0f-2c4439ce63e3" width="250" height="450" />
   </a>
   <a style="text-decoration:none" area-label="next click">
     <img src="https://github.com/filelucker/random_bg_color_flutter/assets/25184971/6826d873-d7b8-4a25-8243-45ae7ca7c966" width="250" height="450" />
