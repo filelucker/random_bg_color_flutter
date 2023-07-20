@@ -10,13 +10,11 @@
   <a style="text-decoration:none" area-label="home page map">
    <img src="https://github.com/filelucker/random_bg_color_flutter/assets/25184971/2a72e081-e908-49c6-8af4-aa87ca92e2b9" width="250" height="450" />
   </a>
-  <a style="text-decoration:none" area-label="next click">
-    <img src="https://github.com/filelucker/random_bg_color_flutter/assets/25184971/33addb5a-9779-4581-9634-f48430af0b72" width="250" height="450" />
+ <a style="text-decoration:none" area-label="next click">
+    <img src="https://github.com/filelucker/random_bg_color_flutter/assets/25184971/68759356-4501-4aaa-88c3-3391679c406a" width="250" height="450" />
   </a>
   <a style="text-decoration:none" area-label="next click">
     <img src="https://github.com/filelucker/random_bg_color_flutter/assets/25184971/68759356-4501-4aaa-88c3-3391679c406a" width="250" height="450" />
   </a>
-    <a style="text-decoration:none" area-label="next click">
-    <img src="[https://github.com/filelucker/random_bg_color_flutter/assets/25184971/68759356-4501-4aaa-88c3-3391679c406a](https://github.com/filelucker/random_bg_color_flutter/assets/25184971/12621c9f-783e-4873-82da-6137c7a3eee5)" width="250" height="450" />
-  </a>
+    
 </p>
