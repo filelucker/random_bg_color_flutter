@@ -1,16 +1,22 @@
 # random_bg_color_flutter
 
-A new Flutter project.
+1. Created a test application
+2. The application: display the text "Hello there" in the middle of the screen and after tapping anywhere on the screen, a background color should be changed to a randomly generated color.
+3. Did not use any external libraries for color generation
+4. Use solid_lints (https://pub.dev/packages/solid_lints) to perform static code analysis and fix any issues.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<p align="center">
+  <a style="text-decoration:none" area-label="home page map">
+   <img src="https://github.com/filelucker/random_bg_color_flutter/assets/25184971/2a72e081-e908-49c6-8af4-aa87ca92e2b9" width="250" height="450" />
+  </a>
+  <a style="text-decoration:none" area-label="next click">
+    <img src="https://github.com/filelucker/random_bg_color_flutter/assets/25184971/33addb5a-9779-4581-9634-f48430af0b72" width="250" height="450" />
+  </a>
+  <a style="text-decoration:none" area-label="next click">
+    <img src="https://github.com/filelucker/random_bg_color_flutter/assets/25184971/68759356-4501-4aaa-88c3-3391679c406a" width="250" height="450" />
+  </a>
+    <a style="text-decoration:none" area-label="next click">
+    <img src="[https://github.com/filelucker/random_bg_color_flutter/assets/25184971/68759356-4501-4aaa-88c3-3391679c406a](https://github.com/filelucker/random_bg_color_flutter/assets/25184971/12621c9f-783e-4873-82da-6137c7a3eee5)" width="250" height="450" />
+  </a>
+</p>
